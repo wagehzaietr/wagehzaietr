@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,python**
 
-- 👨‍💻 All of my projects are available at [https://wageh-portfilio.netlify.app]
+- 👨‍💻 All of my projects are available at [https://wageh-portfilio.netlify.app](https://wageh-portfolio.vercel.app)]
 
 - 📫 How to reach me **https://www.instagram.com/wageh_zaetr/**
 
