@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wageh-portfolio.vercel.app]
 
-- 📫 How to reach me **https://www.instagram.com/wageh_zaetr/](https://www.linkedin.com/feed)**
+- 📫 How to reach me **https://www.linkedin.com/feed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
